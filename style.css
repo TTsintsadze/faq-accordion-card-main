@@ -106,6 +106,10 @@ h3 {
     color: var(--independence-color);
 }
 
+h3:hover {
+    color: #F47B56;
+}
+
 .answer {
     display: none;
 }
